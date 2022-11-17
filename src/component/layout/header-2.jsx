@@ -45,7 +45,7 @@ const HeaderTwo = () => {
                                 <li className="menu-item-has-children">
                                     <a href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,0">Home</a>
                                     <ul className="lab-ul dropdown-menu">
-                                        <li><NavLink to="/">Home One</NavLink></li>
+                                        <li><NavLink to="/">Home O</NavLink></li>
                                         <li><NavLink to="/index-2">Home Two</NavLink></li>
                                         <li><NavLink to="/index-3">Home Three</NavLink></li>
                                         <li><NavLink to="/index-4">Home Four</NavLink></li>
